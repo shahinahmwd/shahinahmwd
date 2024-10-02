@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/md-shahin-mia4115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shahin-mia4115" height="30" width="40" /></a>
 <a href="https://fb.com/mdshahinahmed4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdshahinahmed4" height="30" width="40" /></a>
+<a href="https://instagram.com/mdshahinahmed4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdshahinahmed4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
