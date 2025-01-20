@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Chatting App**
 
-- 💬 Ask me about **Html, Css, Bootstrap, Javascript, Bootstrap**
+- 💬 Ask me about **Html, CSS, Bootstrap, Javascript, Tailwind CSS,React js**
 
 - 📫 How to reach me **smshahinahmed4115@gmail.com**
 
@@ -30,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahinahmwd&show_icons=true&locale=en&layout=compact" alt="shahinahmwd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahinahmwd&show_icons=true&locale=en" alt="shahinahmwd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahinahmwd&" alt="shahinahmwd" /></p>
